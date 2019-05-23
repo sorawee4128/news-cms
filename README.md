@@ -7,11 +7,10 @@
 </p>
 
 
-<p color="red">**** init</p>
+<p>**** init</p>
 <p>**** import news.sql</p>
 <p>**** composer install</p>
-
-
+<br>
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2-app-advanced.svg)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
